@@ -1,0 +1,23 @@
+{
+  "name": "macuin_dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElVittor/Macuin_Dashboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElVittor/Macuin_Dashboard/issues"
+  },
+  "homepage": "https://github.com/ElVittor/Macuin_Dashboard#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
